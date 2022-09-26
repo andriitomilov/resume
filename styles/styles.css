@@ -146,8 +146,7 @@ body {
 
 
 .photo {
-    width: 370px;
-    height: 354px;
+    width: 100%;
     margin-bottom: 50px;
 }
 
